@@ -1,0 +1,32 @@
+{
+  "name": "studyinggroup-font",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite  --host 0.0.0.0 ",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "ali-oss": "^6.19.0",
+    "axios": "^1.6.2",
+    "crypto-js": "^4.2.0",
+    "element-plus": "^2.4.4",
+    "mockjs": "^1.1.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.1",
+    "sass-loader": "^13.3.2",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.0",
+    "sass": "^1.69.5",
+    "vite": "^5.0.0"
+  }
+}
